@@ -3,5 +3,5 @@
 
 We provide you an open sourced ERP system, configurate and customized to your company strait and deploy to cloud service.It is highly shaped for FSC certification business.
 # 
-![erp](erp.png)
+![er_Dfdgp](erp.png)
 - [erp system for FSC audit planning and reviewing](http://fsc.cocaudit.com)

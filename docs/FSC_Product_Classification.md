@@ -61,7 +61,7 @@ The table below provides the Product Type nomenclatures that shall be used by Ce
 <tr><td><b>W9.9</b> Composite board</td><td></td><td>E.g. Cellular boards</td></tr>
 <tr><td><b>W9.10</b> Compressed wood</td><td></td><td>E.g. Resin-treated compressed wood, heat-stabilized compressed wood</td></tr>
 <tr><td><b>W9.11</b> Wood-plastic composites</td><td></td><td></td></tr>
-<tr><td rowspan="5">` `<b>W10</b> Wood package and similar      </td><td><b>W10.1</b> Solid wood packaging</td><td></td><td>E.g. Cases, boxes, crates, cases for jewellery or cutlery.</td></tr>
+<tr><td rowspan="5"> <b>W10</b> Wood package and similar      </td><td><b>W10.1</b> Solid wood packaging</td><td></td><td>E.g. Cases, boxes, crates, cases for jewellery or cutlery.</td></tr>
 <tr><td><b>W10.2</b> Cable-drums</td><td></td><td></td></tr>
 <tr><td><b>W10.3</b> Pallets and skids</td><td></td><td></td></tr>
 <tr><td><b>W10.4</b> Cooper's products</td><td></td><td>E.g. Staves, barrels, casks, vats, tubs</td></tr>
@@ -155,7 +155,7 @@ The table below provides the Product Type nomenclatures that shall be used by Ce
 ## PULP AND PAPER PRODUCTS 
 
 <table><tr><th><b>Level 1</b></th><th><b>Level 2</b></th><th><b>Level 3</b></th><th><b>Examples</b></th></tr>
-<tr><td rowspan="14">`              `<b>P1</b> Pulp                  </td><td rowspan="2"><b>P1.1</b> Mechanical pulp, bleached</td><td><b>P1.1.1</b> Groundwood</td><td></td></tr>
+<tr><td rowspan="14">              <b>P1</b> Pulp                  </td><td rowspan="2"><b>P1.1</b> Mechanical pulp, bleached</td><td><b>P1.1.1</b> Groundwood</td><td></td></tr>
 <tr><td><b>P1.1.2</b> Refiner pulp</td><td>E.g. RMP, TMP, CTMP</td></tr>
 <tr><td rowspan="2"><b>P1.2</b> Mechanical pulp, unbleached</td><td><b>P1.2.1</b> Groundwood</td><td></td></tr>
 <tr><td><b>P1.2.2</b> Refiner pulp</td><td>E.g. RMP, TMP, CTMP</td></tr>
@@ -223,7 +223,7 @@ The table below provides the Product Type nomenclatures that shall be used by Ce
 <tr><td><b>P7.8</b> Adhesive labels </td><td></td><td>E.g. Parcel labels</td></tr>
 <tr><td><b>P7.9</b> Transfers</td><td></td><td></td></tr>
 <tr><td><b>P7.10</b> Postage stamps</td><td></td><td></td></tr>
-<tr><td rowspan="8">`       `<b>P8</b> Printed materials        </td><td><b>P8.1</b> Books</td><td></td><td></td></tr>
+<tr><td rowspan="8">       <b>P8</b> Printed materials        </td><td><b>P8.1</b> Books</td><td></td><td></td></tr>
 <tr><td><b>P8.2</b> Magazines</td><td></td><td></td></tr>
 <tr><td><b>P8.3</b> Newspaper</td><td></td><td></td></tr>
 <tr><td><b>P8.4</b> Advertising materials</td><td></td><td>E.g. Catalogues, flyers, banners, posters</td></tr>

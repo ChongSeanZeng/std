@@ -7,6 +7,7 @@
 - [FSC COC Multi-Site](Multi-Site_COC.md)
 - [Sourcing_Reclaimed_Materials](Sourcing_Reclaimed_Materials.md) 
 - [FSC Product Classification](FSC_Product_Classification.md)
+- [FSC 产品分类](FSC产品分类.md)
 - [审核常见树种](species.md)
 <!-- - [Training](intro.md) -->
 - [ERP System](erp.md)

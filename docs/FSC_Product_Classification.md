@@ -2,7 +2,7 @@
 # FSC Product Classification
 The table below provides the Product Type nomenclatures that shall be used by Certificate Holders for the classification of FSC Product Groups, in accordance with the requirements of *FSC-STD-40-004* *FSC Standard for Chain of Custody Certification*.
 
-## WOOD PRODUCTS 
+## **WOOD PRODUCTS** 
 
 <table><tr><th><b>Level 1</b></th><th><b>Level 2</b></th><th><b>Level 3</b></th><th><b>Examples</b></th></tr>
 <tr><td rowspan="3"><b>W1</b> Rough wood</td><td><b>W1.1</b> Roundwood (logs)</td><td></td><td></td></tr>
@@ -98,10 +98,7 @@ The table below provides the Product Type nomenclatures that shall be used by Ce
 <tr><td><b>W12.11</b> Kitchen countertops</td><td></td><td></td></tr>
 <tr><td><b>W12.12</b> Parts of furniture</td><td></td><td></td></tr>
 <tr><td><b>W12.13</b> Shelves</td><td></td><td></td></tr>
-</table>
-
-
-<table><tr><th rowspan="10"><b>W13</b> Outdoor furniture and gardening</th><th rowspan="4"><b>W13.1</b> Garden furniture</th><th><b>W13.1.1</b> Garden tables</th><th></th></tr>
+<tr><td rowspan="10"><b>W13</b> Outdoor furniture and gardening</td><td rowspan="4"><b>W13.1</b> Garden furniture</td><td><b>W13.1.1</b> Garden tables</td><td></td></tr>
 <tr><td><b>W13.1.2</b> Garden benches</td><td></td></tr>
 <tr><td><b>W13.1.3</b> Garden chairs and stools</td><td></td></tr>
 <tr><td><b>W13.1.4</b> Hammocks and hammock frames</td><td></td></tr>
@@ -152,10 +149,10 @@ The table below provides the Product Type nomenclatures that shall be used by Ce
 </table>
 \* The n.e.c. abbreviation means that the category includes those products “not elsewhere classified”.**   
 
-## PULP AND PAPER PRODUCTS 
+## **PULP AND PAPER PRODUCTS** 
 
 <table><tr><th><b>Level 1</b></th><th><b>Level 2</b></th><th><b>Level 3</b></th><th><b>Examples</b></th></tr>
-<tr><td rowspan="14">              <b>P1</b> Pulp                  </td><td rowspan="2"><b>P1.1</b> Mechanical pulp, bleached</td><td><b>P1.1.1</b> Groundwood</td><td></td></tr>
+<tr><td rowspan="14"><b>P1</b> Pulp                  </td><td rowspan="2"><b>P1.1</b> Mechanical pulp, bleached</td><td><b>P1.1.1</b> Groundwood</td><td></td></tr>
 <tr><td><b>P1.1.2</b> Refiner pulp</td><td>E.g. RMP, TMP, CTMP</td></tr>
 <tr><td rowspan="2"><b>P1.2</b> Mechanical pulp, unbleached</td><td><b>P1.2.1</b> Groundwood</td><td></td></tr>
 <tr><td><b>P1.2.2</b> Refiner pulp</td><td>E.g. RMP, TMP, CTMP</td></tr>
@@ -236,7 +233,7 @@ The table below provides the Product Type nomenclatures that shall be used by Ce
 </table>
 \* The n.e.c. abbreviation means that the category includes those products “not elsewhere classified”.   
 
-## NON-TIMBER FOREST PRODUCTS (NTFPs) 
+## **NON-TIMBER FOREST PRODUCTS (NTFPs)** 
 
 <table><tr><th><b>Level 1</b></th><th><b>Level 2</b></th><th><b>Level 3</b></th><th><b>Examples</b></th></tr>
 <tr><td><b>N1</b> Barks</td><td></td><td></td><td></td></tr>
@@ -263,10 +260,7 @@ The table below provides the Product Type nomenclatures that shall be used by Ce
 <tr><td><b>N5.8</b> Bamboo textiles</td><td></td><td></td></tr>
 <tr><td><b>N5.9</b> Bamboo vinegar</td><td></td><td></td></tr>
 <tr><td><b>N5.10</b> Bamboo pulp</td><td></td><td></td></tr>
-</table>
-
-
-<table><tr><th rowspan="4"><b>N6</b> Plants and parts of plants</th><th><b>N6.1</b> Flowers</th><th></th><th></th></tr>
+<tr><td rowspan="4"><b>N6</b> Plants and parts of plants</td><td><b>N6.1</b> Flowers</td><td></td><td></td></tr>
 <tr><td><b>N6.2</b> Grasses, ferns, mosses and lichens</td><td></td><td></td></tr>
 <tr><td><b>N6.3</b> Whole trees or plants</td><td><b>N6.3.1</b> Christmas trees</td><td></td></tr>
 <tr><td><b>N6.4</b> Pine cones</td><td></td><td></td></tr>

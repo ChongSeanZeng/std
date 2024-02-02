@@ -1,4 +1,4 @@
-- FSC® COC Auditor
+- FSC® Standards
 
     - [Introduction](README.md)
 - [FSC Chain of Custody Standard](COCEN.md)
@@ -10,4 +10,4 @@
 - [FSC 产品分类](FSC产品分类.md)
 - [审核常见树种](species.md)
 <!-- - [Training](intro.md) -->
-- [ERP System](erp.md)
+<!-- - [ERP System](erp.md) -->

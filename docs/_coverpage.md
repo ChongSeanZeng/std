@@ -1,6 +1,6 @@
 ![logo](auditor.jpg)
 
-# Auditor <small></small>
+# FSC Standards <small></small>
 
 > A magical FSC® normative documents site.
 
